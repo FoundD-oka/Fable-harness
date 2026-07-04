@@ -1,0 +1,13 @@
+# 私的データ・公開しないもの（ChatGPTログ、旧作業ファイル等）
+_private/
+
+# OS / エディタ
+.DS_Store
+*.swp
+*~
+
+# エージェント作業の一時物
+__pycache__/
+*.pyc
+.codex/
+scratchpad/
